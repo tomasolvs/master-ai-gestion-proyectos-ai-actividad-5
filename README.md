@@ -14,6 +14,7 @@ Proyecto de clasificación con el conjunto de datos Wisconsin Diagnostic Breast 
 
 ## Estructura del proyecto
 
+```text
 Actividad5/
 ├── datos/
 │   ├── datos_ini/
@@ -34,7 +35,9 @@ Actividad5/
 ├── CHANGELOG.md
 ├── README.md
 ├── requirements.txt
-└── Notebook de la actividad
+└── TO_Modulo_2_Actividad..._251026.ipynb
+```
+
 
 ## Dataset
 
