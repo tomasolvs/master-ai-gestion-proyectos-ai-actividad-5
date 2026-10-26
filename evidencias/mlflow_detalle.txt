@@ -1,0 +1,16 @@
+Modelo: Random_Forest
+Estado: FINISHED
+Run ID: 415a07aee6a542588aa55c8042df111b
+Parámetros: {'modelo__max_depth': '5', 'modelo__min_samples_leaf': '2', 'modelo__n_estimators': '100', 'random_state': '42', 'validacion_cruzada': '5-fold stratified', 'test_size': '0.2'}
+Métricas: {'accuracy': 0.956140350877193, 'precision': 0.958904109589041, 'recall': 0.9722222222222222, 'f1': 0.9655172413793104, 'roc_auc': 0.9930555555555555, 'cv_f1_mean': 0.9701813114156721}
+Artefactos:
+  modelo
+
+Modelo: Regresion_Logistica
+Estado: FINISHED
+Run ID: 80f49ea607784e5fb4b7284b39362ecc
+Parámetros: {'modelo__C': '0.1', 'modelo__class_weight': 'None', 'random_state': '42', 'validacion_cruzada': '5-fold stratified', 'test_size': '0.2'}
+Métricas: {'accuracy': 0.9736842105263158, 'precision': 0.9726027397260274, 'recall': 0.9861111111111112, 'f1': 0.9793103448275862, 'roc_auc': 0.9957010582010581, 'cv_f1_mean': 0.9861164154764722}
+Artefactos:
+  modelo
+
